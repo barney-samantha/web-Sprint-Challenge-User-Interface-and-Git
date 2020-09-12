@@ -99,7 +99,7 @@ header a{
 h2.button{
     border: 3px solid black;
     border-radius: 3mm;
-    width: 15%;
+    width: 20%;
     margin: auto;
     line-break: auto;
 }
@@ -128,6 +128,7 @@ h1, h2, h3, h4, h5 {
 
 p {
     line-height: 1.4;
+    text-align: left;
 }
 
 
@@ -137,7 +138,7 @@ p {
 }
 
 
-/*---------------------()-------------------------*/
+/*---------------------(TOP)-------------------------*/
 
 
 
@@ -221,6 +222,9 @@ p {
     align-items: center;
     justify-content: center;
 }
+
+
+
 /*-------------------- (BOTTOM)-------------------------*/
 
 
